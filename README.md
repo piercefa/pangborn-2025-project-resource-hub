@@ -9,11 +9,11 @@
 
 
 ## Loom Video Demos of each tool
--[Tool created without AI](https://www.loom.com/share/cc93a6b291284c369609dae673fd3ed3?sid=9bdbd4f2-9b6a-4dec-873b-1bb91318dac1)
--[Tool created with AI](https://www.loom.com/share/2162cd09b35a44ea8f5e2049ed7eb2f8?sid=e01b61f0-a79c-47c7-9483-788e5dd38ca5)
+- [Tool created without AI](https://www.loom.com/share/cc93a6b291284c369609dae673fd3ed3?sid=9bdbd4f2-9b6a-4dec-873b-1bb91318dac1)
+- [Tool created with AI](https://www.loom.com/share/2162cd09b35a44ea8f5e2049ed7eb2f8?sid=e01b61f0-a79c-47c7-9483-788e5dd38ca5)
 
 ## R packages and citations
--[Citations - R packages used in tool creation and debugging resources used in the tool without the use of AI](./citations%20and%20resources.pdf)
+- [Citations - R packages used in tool creation and debugging resources used in the tool without the use of AI](./citations%20and%20resources.pdf)
 
 ## Debugging table with answer sources for tool without AI use
--[Table with specific links to the bugs and resources used to fix them in the tool made without using AI](./Debugging_resources_table.pdf)
+- [Table with specific links to the bugs and resources used to fix them in the tool made without using AI](./Debugging_resources_table.pdf)
