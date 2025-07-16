@@ -12,7 +12,7 @@
 -[Tool created with AI](https://www.loom.com/share/2162cd09b35a44ea8f5e2049ed7eb2f8?sid=e01b61f0-a79c-47c7-9483-788e5dd38ca5)
 
 ## R packages and citations
--[Citations - R packages used in tools and debugging resources used in tool without the use of AI](./citations and resources.pdf)
+-[Citations - R packages used in tool creation and debugging resources used in the tool without the use of AI](./citations and resources.pdf)
 
 ## Debugging table with answer sources for tool without AI use
 -[Table with specific links to the bugs and resources used to fix them in the tool made without using AI](./Debugging_resources_table.pdf)
